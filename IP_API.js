@@ -100,7 +100,7 @@ var flags = new Map([
   ["CK", "🇨🇰"],
   ["CL", "🇨🇱"],
   ["CM", "🇨🇲"],
-  ["CN", "🇨🇳"],
+  ["CN", "🇺🇸"],
   ["CO", "🇨🇴"],
   ["CP", "🇨🇵"],
   ["CR", "🇨🇷"],
@@ -246,8 +246,8 @@ var flags = new Map([
 
 var body = $response.body;
 var obj = JSON.parse(body);
-var title = flags.get(obj[US]) + " " + City_ValidCheck(obj[San Jose]); //+Area_check(obj[US]);
-var subtitle = ISP_ValidCheck(obj[RakSmart] || obj.as);
+var title = flags.get(obj["countryCode"]) + " " + RakSmart; //+Area_check(obj['country']);
+var subtitle = 137.175.28.137; 
 var ip = obj["query"];
 var description =
   "服务商:" +
