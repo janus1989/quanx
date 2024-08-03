@@ -246,8 +246,8 @@ var flags = new Map([
 
 var body = $response.body;
 var obj = JSON.parse(body);
-var title = flags.get(obj["countryCode"]) + " " + City_ValidCheck(obj["isp"]); //+Area_check(obj['country']);
-var subtitle = ISP_ValidCheck(obj["query"] || obj.as);
+var title = flags.get(obj["countryCode"]) + " " + City_ValidCheck(obj["query"]); //+Area_check(obj['country']);
+var subtitle = ISP_ValidCheck(obj["as"] || obj.as);
 var ip = obj["query"];
 var description =
   "服务商:" +
