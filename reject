@@ -1,0 +1,13 @@
+host-suffix, cnzz.com, reject
+host-suffix, doubleclick.net, reject
+host-suffix, xbk.189.cn, reject
+host-suffix, gepush.com, reject
+host-suffix, getui.net, reject
+host-suffix, doubleclick-cn.net, reject
+host-suffix, open.e.kuaishou.com, reject
+host-suffix, adukwai.com, reject
+host-suffix, ad.12306.cn, reject
+host-suffix, umengcloud.com, reject
+host-suffix, umeng.com, reject
+host-suffix, getui.com, reject
+host-suffix, ads.cup.com.cn, reject
