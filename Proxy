@@ -443,7 +443,6 @@ DOMAIN-KEYWORD,spotify,🌍 国外媒体
 DOMAIN-KEYWORD,telegram,🌍 国外媒体
 DOMAIN-KEYWORD,twitter,🌍 国外媒体
 DOMAIN-KEYWORD,whatsapp,🌍 国外媒体
-DOMAIN-KEYWORD,youtube,🌍 国外媒体
 DOMAIN-SUFFIX,4sqi.net,🌍 国外媒体
 DOMAIN-SUFFIX,a248.e.akamai.net,🌍 国外媒体
 DOMAIN-SUFFIX,adobedtm.com,🌍 国外媒体
@@ -647,12 +646,6 @@ DOMAIN-SUFFIX,gvt0.com,🌍 国外媒体
 DOMAIN-SUFFIX,gvt1.com,🌍 国外媒体
 DOMAIN-SUFFIX,gvt2.com,🌍 国外媒体
 DOMAIN-SUFFIX,gvt3.com,🌍 国外媒体
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🌍 国外媒体
-DOMAIN-SUFFIX,youtu.be,🌍 国外媒体
-DOMAIN-SUFFIX,youtube-nocookie.com,🌍 国外媒体
-DOMAIN-SUFFIX,youtube.com,🌍 国外媒体
-DOMAIN-SUFFIX,yt.be,🌍 国外媒体
-DOMAIN-SUFFIX,ytimg.com,🌍 国外媒体
 IP-CIDR,74.125.0.0/16,🌍 国外媒体,no-resolve
 IP-CIDR,173.194.0.0/16,🌍 国外媒体,no-resolve
 IP-CIDR,120.232.181.162/32,🌍 国外媒体,no-resolve
