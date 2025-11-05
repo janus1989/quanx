@@ -723,7 +723,6 @@ IP-CIDR,119.235.236.0/23,🌍 国外媒体,no-resolve
 IP-CIDR,147.92.128.0/17,🌍 国外媒体,no-resolve
 IP-CIDR,203.104.128.0/19,🌍 国外媒体,no-resolve
 DOMAIN-SUFFIX,openai.com,🌍 国外媒体
-DOMAIN-SUFFIX,challenges.cloudflare.com,🌍 国外媒体
 DOMAIN-KEYWORD,1drv,🌍 国外媒体
 DOMAIN-KEYWORD,onedrive,🌍 国外媒体
 DOMAIN-KEYWORD,skydrive,🌍 国外媒体
