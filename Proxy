@@ -373,28 +373,6 @@ DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,🌍 国外媒体
 DOMAIN-SUFFIX,viu.com,🌍 国外媒体
 DOMAIN-SUFFIX,viu.now.com,🌍 国外媒体
 DOMAIN-SUFFIX,viu.tv,🌍 国外媒体
-USER-AGENT,*youtube*,🌍 国外媒体
-USER-AGENT,YouTube*,🌍 国外媒体
-USER-AGENT,com.google.ios.youtube*,🌍 国外媒体
-DOMAIN-KEYWORD,youtube,🌍 国外媒体
-DOMAIN,youtubei.googleapis.com,🌍 国外媒体
-DOMAIN,yt3.ggpht.com,🌍 国外媒体
-DOMAIN-SUFFIX,googlevideo.com,🌍 国外媒体
-DOMAIN-SUFFIX,gvt2.com,🌍 国外媒体
-DOMAIN-SUFFIX,withyoutube.com,🌍 国外媒体
-DOMAIN-SUFFIX,youtu.be,🌍 国外媒体
-DOMAIN-SUFFIX,youtube-nocookie.com,🌍 国外媒体
-DOMAIN-SUFFIX,youtube.com,🌍 国外媒体
-DOMAIN-SUFFIX,youtubeeducation.com,🌍 国外媒体
-DOMAIN-SUFFIX,youtubegaming.com,🌍 国外媒体
-DOMAIN-SUFFIX,youtubekids.com,🌍 国外媒体
-DOMAIN-SUFFIX,yt.be,🌍 国外媒体
-DOMAIN-SUFFIX,ytimg.com,🌍 国外媒体
-USER-AGENT,*YouTubeMusic*,🌍 国外媒体
-USER-AGENT,*com.google.ios.youtubemusic*,🌍 国外媒体
-USER-AGENT,YouTubeMusic*,🌍 国外媒体
-USER-AGENT,com.google.ios.youtubemusic*,🌍 国外媒体
-DOMAIN,music.youtube.com,🌍 国外媒体
 host-suffix, maxmind.com, 🌍 国外媒体
 host-suffix, raycast.com, 🌍 国外媒体
 host-suffix, notion.com, 🌍 国外媒体
